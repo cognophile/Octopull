@@ -2,7 +2,8 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,visualstudiocode
 
 # OctoPull
-octopull.config.json
+**/octopull.config.json
+**/octopull.data.json
 
 ### macOS ###
 # General
