@@ -4,6 +4,8 @@
 # OctoPull
 **/octopull.config.json
 **/octopull.data.json
+**/octopull.output.csv
+**/octopull.output.txt
 
 ### macOS ###
 # General
